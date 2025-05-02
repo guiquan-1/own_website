@@ -1,11 +1,6 @@
 ## For Future Use 
 
 #Project Ideas
-
-This document provides advanced coding project ideas in the areas of data analytics and personal website development. These projects are designed to challenge your skills and build a strong portfolio.
-
-## Advanced Data Analytics Projects
-
 ### 1.  Real-Time Social Media Sentiment Analysis Dashboard
 
 **Description:** Build a real-time dashboard that tracks and visualizes the sentiment of social media posts related to a specific topic or brand.
