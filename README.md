@@ -89,9 +89,3 @@
 * (Optional) Implement features like sentiment analysis of social media posts or competitor analysis.
 
 **Possible Technologies:** JavaScript (React, Next.js, or similar), a backend framework (Node.js/Express, Python/Django/Flask), a database (PostgreSQL, MongoDB), and potentially real-time communication libraries (e.g., Socket.IO).
-
-## Choosing Your Project
-
-Consider the following factors when selecting a project:
-
-* **Your interests:** Choose a project
